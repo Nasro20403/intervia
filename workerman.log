@@ -1,0 +1,4 @@
+2025-12-07 13:07:45 pid:1612 Workerman[ws-server.php] start in DAEMON mode
+2025-12-07 22:28:16 pid:1617 Workerman[ws-server.php] received signal SIGTERM
+2025-12-07 22:28:16 pid:1617 Workerman[ws-server.php] stopping
+2025-12-07 22:28:16 pid:1617 Workerman[ws-server.php] has been stopped
